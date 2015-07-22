@@ -43,7 +43,7 @@
 
 void add_smoke(int y, int x);
 void add_man(int y, int x);
-int add_C51(int x);
+int add_C51(int x);     //Hello
 int add_D51(int x);
 int add_sl(int x);
 void option(char *str);
